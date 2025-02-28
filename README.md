@@ -2,7 +2,7 @@
 
 This project involves training a machine learning model to classify emotions based on features extracted from an input dataset.
 
-## Key Aspects:
+### Key Aspects:
 
 #### Dataset:
 The dataset (emotions.csv) contains numerical features (fft_0_b to fft_749_b) and corresponding emotion labels (NEGATIVE, NEUTRAL, POSITIVE).
